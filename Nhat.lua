@@ -6,7 +6,8 @@ local WalkNoStun="https://raw.githubusercontent.com/tsnhat12-wq/Nhat-HiHi-DEV/re
 local Font="https://raw.githubusercontent.com/NhatHihi-dev/Font/refs/heads/main/Font-RBL.lua"
 
 local Scripts={
-    [79091703265657]={Nhat,NhatHiHi,WalkNoStun,Font},
+    [79091703265657]={Nhat,NhatHiHi,WalkNoStun,Font
+    [2753915549]={Nhat,NhatHiHi,WalkNoStun,Font},
     [100117331123089]={Nhat,NhatHiHi,WalkNoStun,Font},
     [85211729168715]={Nhat,NhatHiHi,WalkNoStun,Font},
     [107778070777162]={Nhat,Font},
